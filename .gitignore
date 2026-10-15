@@ -1,0 +1,6 @@
+runs/
+*.glb
+*.safetensors
+__pycache__/
+runs.csv
+!results/runs.csv
