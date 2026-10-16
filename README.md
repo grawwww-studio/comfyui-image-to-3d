@@ -5,7 +5,7 @@ One photo of a piece of furniture in, a textured GLB (PBR maps + UV) out, in Com
 "Furniture photo to 3D" and the YouTube video about it.
 
 - Case page: https://grawwww.xyz/trabajos/en/furniture-3d/
-- Video: TODO (link added when the video is public)
+- Video: https://youtu.be/98btVDZIK7U
 
 ![Photo, Pixal3D and TRELLIS.2 on the stool](results/images/compare_stool.jpg)
 
