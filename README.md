@@ -4,7 +4,7 @@ One photo of a piece of furniture in, a textured GLB (PBR maps + UV) out, in Com
 **Pixal3D** (TencentARC) and **TRELLIS.2** (Microsoft). This is the reproducible pack behind our case study
 "Furniture photo to 3D" and the YouTube video about it.
 
-- Case page: https://grawwww.xyz/trabajos/en/furniture-3d/
+- Case page: https://grawwww.xyz/en/work/furniture-3d/
 - Video: https://youtu.be/98btVDZIK7U
 
 ![Photo, Pixal3D and TRELLIS.2 on the stool](results/images/compare_stool.jpg)
